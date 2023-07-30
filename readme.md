@@ -1,3 +1,1 @@
-# Natours Application
-
-Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
+A TRAVEL AND TOURISM APP 
